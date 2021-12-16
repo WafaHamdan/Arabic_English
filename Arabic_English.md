@@ -192,7 +192,7 @@ Arbaic - PC keyboard
 | a              |   ا    |
 | b              |   ب    |
 | c              |   س    |
-
+| d              |   د    |
 ## Need translations
 
 - You should be in a breakout room.
